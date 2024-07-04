@@ -60,16 +60,18 @@
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
+    font-size: 20px;
 }
 
 #next{
     margin: 30px;
     opacity: 0;
     width: 150px;
-    height: 30px;
+    height: 20px;
     border: 0px solid#EED7AB ;
     background: #EED7AB;
     border-radius: 10px;
+    font-size: 12px;
 }
 
 #next:hover{
