@@ -26,7 +26,7 @@ img{
 }
 
 .back{
-    margin: 30px 35%;
+    margin: 5px 35%;
     width: 30%;
     height: 30px;
     border: 0px solid;
@@ -45,7 +45,7 @@ button:hover{
 }
 
 .wa{
-    margin: 30px 30%;
+    margin: 5px 30%;
     width: 40%;
     height: 30px;
     border: 0px solid;
