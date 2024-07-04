@@ -1,0 +1,45 @@
+#body{
+    background: url(../image/back.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.kontener{
+    width: 60%;
+    margin: 100px auto;
+    padding: 200px 0;
+    background: rgba(234, 228, 185, 0.6);
+    border-radius: 20px;
+
+}
+
+.text{
+    width: 100%;
+    text-align: center;
+    font-family: "Bona Nova SC", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+img{
+    width: 10%;
+}
+
+.back{
+    margin: 30px 35%;
+    width: 30%;
+    height: 30px;
+    border: 0px solid;
+    border-radius: 10px;
+    background: #B8EF82;
+    color: #158710;
+    text-align: center;
+    font-family: "Bona Nova SC", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.back:hover{
+    background: #158710;
+    color: #B8EF82;
+}
