@@ -1,0 +1,94 @@
+/* #tengah{
+
+    width: 100%;
+    justify-content: center;
+    padding: 0px 20%;
+
+} */
+
+#text{
+    position: absolute;
+    top: 30px;
+    width: 60%;
+    padding: 40px 5%;
+    margin: 10px 20%;
+    text-align: center;
+    color: #F4CCCC;
+}
+
+#satu{
+    font-size: large;
+    opacity: 0;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#dua{
+    font-size: large;
+    opacity: 0;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+#tiga{
+    font-size: large;
+    opacity: 0;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#empat{
+    font-size: large;
+    opacity: 0;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+#happy{
+    opacity: 0;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+#next{
+    margin: 30px;
+    opacity: 0;
+    width: 150px;
+    height: 30px;
+    border: 0px solid#EED7AB ;
+    background: #EED7AB;
+    border-radius: 10px;
+}
+
+#next:hover{
+    background: #987E59;
+    color: #EED7AB;
+
+}
+
+button a{
+    text-decoration: none;
+    color: #987E59;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+audio{
+    display: none;
+}
+
+

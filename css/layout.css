@@ -1,0 +1,21 @@
+body{
+    background: white;
+}
+
+.sect1{
+    margin: 100px auto;
+    width: 800px;
+    padding: 400px 100px;
+
+
+
+}
+
+header{
+    padding: 0px 50px;
+    text-align: center;
+    font-family: "Playwrite NG Modern", cursive;
+    font-optical-sizing: auto;
+    font-size: 40px;
+    font-style: normal;
+}
