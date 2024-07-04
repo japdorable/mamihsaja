@@ -10,7 +10,7 @@
     background: url(../image/planet.png);
     position: absolute;
     top: 200px;
-    left: 30%;
+    left: 25%;
     width: 236px;
     height: 236px;
 
@@ -85,7 +85,7 @@
     background: url(../image/rocket.png);
     position: absolute;
     bottom: 0px;
-    left: 150px;
+    left: 100px;
     width: 270px;
     height: 270px;
     z-index: 20;
