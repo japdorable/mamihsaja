@@ -5,21 +5,12 @@
 
 .bottom{
     border: 0px;
-   border-radius: 40px;
-   padding: 10px 20px;
+    border-radius: 40px;
+    padding: 10px 20px;
    
    
 }
 
-.pencet{
-    text-decoration: none;
-    color: white;
-    font-family: "Playwrite NG Modern", cursive;
-    font-optical-sizing: auto;
-    font-style: normal;
-    font-size: 20px;
-
-}
 
 button:hover{
     background: #1D6F87;
@@ -30,4 +21,10 @@ button{
     height: 80px;
     margin: 20px 200px;
     background: #B37071;
+    text-decoration: none;
+    color: white;
+    font-family: "Playwrite NG Modern", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 20px;
 }
